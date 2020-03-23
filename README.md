@@ -1,3 +1,9 @@
+# skill-svelte
+
+This is a front end for an express server that will take command from buttons or image clicks. The Express server then forwards on the commands to a running Cadence Virtuoso session.
+
+[Skill Command & Control Backend](https://github.com/submicron13/skill-control)
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
@@ -91,4 +97,4 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
-# skill-svelte
+
